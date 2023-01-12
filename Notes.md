@@ -26,6 +26,14 @@ npm install
 
 npm start
 
+#Para fazer pelo modo online
+
+wget https://github.com/Fanarrow/ReplitConfig/raw/main/config.sh
+
+* Depois executar no console 
+
+sh config.sh
+
 
 # Este passo só deverá ser feito depois de Scanear o Qr code
 
