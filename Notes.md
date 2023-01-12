@@ -1,6 +1,4 @@
-# Para começar
-
-Upload video.zip
+# Para começar pelo zip
 
 unzip video.zip
 
@@ -37,6 +35,7 @@ Onde está Escrito "Pasta" colocar o nome da PastaDoBot
 
 
 *  Linha pra colar na index do bot (uptimerobot)
+
 
 require("http").createServer((_, res) => res.end("Funcionando!")).listen(8080)
 
