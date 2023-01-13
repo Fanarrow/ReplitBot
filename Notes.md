@@ -26,7 +26,7 @@ npm install
 
 npm start
 
-#Para fazer pelo modo online
+# Para fazer pelo modo online
 
 wget https://github.com/Fanarrow/ReplitConfig/raw/main/config.sh
 
