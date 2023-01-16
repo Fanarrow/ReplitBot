@@ -7,4 +7,4 @@ WHITE='\033[1;37m'
 echo ${YELLOW}'INSTALANDO O SAKURA BOT'
 echo  ${WHITE}
 
-git clone https://github.com/Scheyot2/sakura-botv6.git && cd sakura-botv6 && npm install && cd .. && sh config.sh
+git clone https://github.com/Scheyot2/sakura-botv6.git
