@@ -1,1 +1,2 @@
-cd Pasta && node . & node server.js & wait
+#!bin/bash
+cd Pasta && yarn start & node server.js & wait
